@@ -1,0 +1,1564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zibbra Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-20 11:22+0200\n"
+"PO-Revision-Date: 2016-10-20 11:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: Zibbra <info@zibbra.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. end if
+#: ../core/admin-form.php:8
+msgid "Plugin version"
+msgstr ""
+
+#: ../core/admin-form.php:10
+msgid "Client Library version"
+msgstr ""
+
+#: ../core/admin-form.php:12
+msgid "Zibbra Plugin"
+msgstr "Zibbra Plugin"
+
+#: ../core/admin-form.php:13
+msgid "This page allows you to configure the Zibbra E-Commerce plugin."
+msgstr "Via deze pagina kan je de Zibbra E-Commerce plugin configureren."
+
+#: ../core/admin-form.php:16
+msgid "Get Started"
+msgstr "Start hier"
+
+#: ../core/admin-form.php:24
+msgid "Need Help?"
+msgstr "Hulp nodig?"
+
+#: ../core/admin-form.php:32
+msgid "Developers"
+msgstr "Ontwikkelaars"
+
+#: ../core/admin-form.php:54 ../core/admin-form.php:57
+msgid "API Settings"
+msgstr "API Instellingen"
+
+#: ../core/admin-form.php:63
+msgid "API Client ID"
+msgstr "API Client ID"
+
+#: ../core/admin-form.php:67
+msgid "API Client Secret"
+msgstr "API Client Secret"
+
+#: ../core/admin-form.php:71
+msgid "Zibbra Environment"
+msgstr "Zibbra Omgeving"
+
+#: ../core/admin-form.php:74
+msgid "Production"
+msgstr "Productie"
+
+#: ../core/admin-form.php:75
+msgid "Staging"
+msgstr ""
+
+#: ../core/admin-form.php:77
+msgid "Development"
+msgstr ""
+
+#: ../core/admin-form.php:78
+msgid "Amazon AWS"
+msgstr ""
+
+#: ../core/admin-form.php:84
+msgid "Enable debugging?"
+msgstr ""
+
+#: ../core/admin-form.php:87 ../core/admin-form.php:167
+#: ../core/admin-form.php:176 ../core/admin-form.php:185
+#: ../core/admin-form.php:194 ../core/admin-form.php:203
+#: ../core/admin-form.php:212 ../core/admin-form.php:221
+#: ../core/admin-form.php:259 ../core/admin-form.php:268
+#: ../core/admin-form.php:299 ../core/admin-form.php:308
+#: ../core/admin-form.php:317 ../core/admin-form.php:326
+#: ../core/admin-form.php:335 ../core/admin-form.php:368
+#: ../core/admin-form.php:377 ../core/admin-form.php:386
+#: ../core/admin-form.php:395 ../core/admin-form.php:424
+#: ../core/admin-form.php:433 ../core/admin-form.php:488
+#: ../core/admin-form.php:533 ../core/admin-form.php:542
+#: ../core/admin-form.php:551 ../templates/account-invoices.php:41
+#: ../widgets/category.php:54 ../widgets/minicart-form.php:8
+#: ../widgets/minicart-form.php:13
+msgid "Yes"
+msgstr "Ja"
+
+#: ../core/admin-form.php:88 ../core/admin-form.php:168
+#: ../core/admin-form.php:177 ../core/admin-form.php:186
+#: ../core/admin-form.php:195 ../core/admin-form.php:204
+#: ../core/admin-form.php:213 ../core/admin-form.php:222
+#: ../core/admin-form.php:260 ../core/admin-form.php:269
+#: ../core/admin-form.php:300 ../core/admin-form.php:309
+#: ../core/admin-form.php:318 ../core/admin-form.php:327
+#: ../core/admin-form.php:336 ../core/admin-form.php:369
+#: ../core/admin-form.php:378 ../core/admin-form.php:387
+#: ../core/admin-form.php:396 ../core/admin-form.php:425
+#: ../core/admin-form.php:434 ../core/admin-form.php:489
+#: ../core/admin-form.php:534 ../core/admin-form.php:543
+#: ../core/admin-form.php:552 ../templates/account-invoices.php:41
+#: ../widgets/category.php:55 ../widgets/minicart-form.php:9
+#: ../widgets/minicart-form.php:14
+msgid "No"
+msgstr "Nee"
+
+#: ../core/admin-form.php:93
+msgid "Your current token"
+msgstr "Uw huidige token"
+
+#: ../core/admin-form.php:97
+msgid "Token expires on"
+msgstr "Token vervalt op"
+
+#. end if
+#: ../core/admin-form.php:111
+msgid "Reset token?"
+msgstr "Token resetten?"
+
+#: ../core/admin-form.php:122 ../core/admin-form.php:125
+msgid "Catalog Settings"
+msgstr "Cataloog instellingen"
+
+#: ../core/admin-form.php:131
+msgid "Products per page?"
+msgstr "Producten per pagina?"
+
+#: ../core/admin-form.php:135
+msgid "Default sort type?"
+msgstr "Standaard sortering?"
+
+#: ../core/admin-form.php:138 ../modules/catalog.php:229
+#: ../widgets/category.php:44
+msgid "Best buy"
+msgstr "Best verkocht"
+
+#: ../core/admin-form.php:139 ../modules/catalog.php:230
+#: ../widgets/category.php:45
+msgid "Name"
+msgstr "Naam"
+
+#: ../core/admin-form.php:140 ../modules/catalog.php:231
+#: ../widgets/category.php:46
+msgid "Price"
+msgstr "Prijs"
+
+#: ../core/admin-form.php:141 ../modules/catalog.php:232
+#: ../widgets/category.php:47
+msgid "Newest"
+msgstr "Nieuwste"
+
+#: ../core/admin-form.php:146
+msgid "Default sort direction?"
+msgstr "Standaard sorteerrichting?"
+
+#: ../core/admin-form.php:149 ../widgets/category.php:50
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: ../core/admin-form.php:150 ../widgets/category.php:51
+msgid "Descending"
+msgstr "Aflopend"
+
+#: ../core/admin-form.php:155
+msgid "Grid or List layout?"
+msgstr ""
+
+#: ../core/admin-form.php:158
+msgid "Grid"
+msgstr ""
+
+#: ../core/admin-form.php:159
+msgid "List"
+msgstr ""
+
+#: ../core/admin-form.php:164
+msgid "Show filters?"
+msgstr "Toon filters?"
+
+#: ../core/admin-form.php:173
+msgid "Filters collapsed?"
+msgstr ""
+
+#: ../core/admin-form.php:182
+msgid "Header in sidebar?"
+msgstr ""
+
+#: ../core/admin-form.php:191
+msgid "Toolbar in sidebar?"
+msgstr ""
+
+#: ../core/admin-form.php:200
+msgid "Show stock info?"
+msgstr "Toon voorraad informatie?"
+
+#: ../core/admin-form.php:209
+msgid "Show stock when backorder allowed?"
+msgstr "Toon voorraad als backorder toegestaan is?"
+
+#: ../core/admin-form.php:218
+msgid "Show stock quantity?"
+msgstr "Toon voorraad hoeveelheden?"
+
+#: ../core/admin-form.php:227 ../widgets/bestsellers-form.php:17
+#: ../widgets/category-form.php:18
+msgid "Thumbnail size?"
+msgstr "Thumbnail grootte?"
+
+#: ../core/admin-form.php:231
+msgid "Button"
+msgstr ""
+
+#: ../core/admin-form.php:234
+msgid "Link product page"
+msgstr ""
+
+#: ../core/admin-form.php:235 ../templates/catalog-product.php:59
+#: ../templates/product-buy.php:19
+msgid "Add to cart"
+msgstr "In winkelmandje"
+
+#: ../core/admin-form.php:247 ../core/admin-form.php:250
+msgid "Product Settings"
+msgstr ""
+
+#: ../core/admin-form.php:256
+msgid "Split properties in 2 columns?"
+msgstr ""
+
+#: ../core/admin-form.php:265
+msgid "Title at top?"
+msgstr ""
+
+#: ../core/admin-form.php:287 ../core/admin-form.php:290
+msgid "Cart Settings"
+msgstr ""
+
+#: ../core/admin-form.php:296
+msgid "Show prices VAT included?"
+msgstr ""
+
+#: ../core/admin-form.php:305 ../core/admin-form.php:365
+msgid "Link products?"
+msgstr ""
+
+#: ../core/admin-form.php:314
+msgid "Lock the quantity?"
+msgstr ""
+
+#: ../core/admin-form.php:323
+msgid "Lock the addons?"
+msgstr ""
+
+#: ../core/admin-form.php:332
+msgid "Show continue shopping?"
+msgstr ""
+
+#: ../core/admin-form.php:341
+msgid "URL continue shopping?"
+msgstr ""
+
+#: ../core/admin-form.php:352 ../core/admin-form.php:355
+msgid "Checkout Settings"
+msgstr "Instellingen Checkout"
+
+#: ../core/admin-form.php:361
+msgid "Redirect after order?"
+msgstr "Doorsturen na bestelling?"
+
+#: ../core/admin-form.php:374
+msgid "Allow comments?"
+msgstr "Opmerkingen toestaan?"
+
+#: ../core/admin-form.php:383
+msgid "Enable vouchers?"
+msgstr ""
+
+#: ../core/admin-form.php:392
+msgid "Require agree terms?"
+msgstr ""
+
+#: ../core/admin-form.php:401
+msgid "URL to terms?"
+msgstr ""
+
+#: ../core/admin-form.php:412 ../core/admin-form.php:415
+msgid "Registration Settings"
+msgstr ""
+
+#: ../core/admin-form.php:421
+msgid "Generate password?"
+msgstr ""
+
+#: ../core/admin-form.php:430
+msgid "Primary address is shipping?"
+msgstr ""
+
+#: ../core/admin-form.php:446 ../core/admin-form.php:449
+msgid "Captcha Settings"
+msgstr ""
+
+#: ../core/admin-form.php:453
+#, php-format
+msgid "Register your re-captcha account for free at %s"
+msgstr ""
+
+#: ../core/admin-form.php:457
+msgid "Re-Captcha Site Key"
+msgstr ""
+
+#: ../core/admin-form.php:461
+msgid "Re-Captcha Secret"
+msgstr ""
+
+#: ../core/admin-form.php:472 ../core/admin-form.php:475
+msgid "Google Analytics Settings"
+msgstr "Google Analytics instellingen"
+
+#: ../core/admin-form.php:481 ../core/admin-form.php:510
+msgid "Tracking ID?"
+msgstr "Tracking ID?"
+
+#: ../core/admin-form.php:485
+msgid "Enable E-Commerce Tracking?"
+msgstr "E-Commerce tracking activeren?"
+
+#: ../core/admin-form.php:501 ../core/admin-form.php:504
+msgid "Facebook Pixel Settings"
+msgstr ""
+
+#: ../core/admin-form.php:521 ../core/admin-form.php:524
+msgid "Theme Settings"
+msgstr ""
+
+#: ../core/admin-form.php:530
+msgid "Wrapped Theme?"
+msgstr ""
+
+#: ../core/admin-form.php:539
+msgid "Enclose page title in bootstrap container?"
+msgstr ""
+
+#: ../core/admin-form.php:548
+msgid "Enclose content in bootstrap container?"
+msgstr ""
+
+#: ../core/admin-form.php:564 ../core/admin-form.php:567
+msgid "Log Settings"
+msgstr ""
+
+#: ../core/admin-form.php:573
+msgid "Log directory?"
+msgstr ""
+
+#. Register custom menu-type for Zibbra categories
+#: ../core/admin.php:45
+msgid "Zibbra Categories"
+msgstr ""
+
+#: ../core/admin.php:179
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft onvoldoende toegang tot deze pagina."
+
+#. end if
+#: ../core/controller.php:138 ../core/controller.php:424
+msgid "Forgot your password?"
+msgstr "Paswoord vergeten?"
+
+#: ../core/controller.php:139
+msgid "Register a new account"
+msgstr "Maak een nieuw account"
+
+#: ../core/controller.php:213
+msgid "Zibbra Customer"
+msgstr "Zibbra Klant"
+
+#: ../core/controller.php:412 ../core/controller.php:432
+#: ../core/controller.php:503
+msgid "Unable to login"
+msgstr "Aanmelden mislukt"
+
+#: ../core/controller.php:439
+msgid "Thank you for your registration"
+msgstr "Bedankt om te registreren!"
+
+#: ../core/controller.php:454 ../modules/register.php:263
+msgid "Unable to create your account"
+msgstr "Account aanmaken mislukt"
+
+#: ../core/controller.php:510
+msgid "Welcome back"
+msgstr "Welkom terug"
+
+#. id
+#: ../core/controller.php:657
+msgid "Zibbra Meta"
+msgstr "Zibbra Meta"
+
+#: ../core/controller.php:672
+msgid "URL to the product page"
+msgstr "URL naar de product pagina"
+
+#: ../jscripts/checkout.js:221
+msgid "LOADING"
+msgstr "BEZIG MET LADEN"
+
+#: ../modules/account.php:208
+msgid "You are not allowed to access this page"
+msgstr "U heeft onvoldoende toegang tot deze pagina"
+
+#. end if
+#. Set the title
+#: ../modules/account.php:258
+msgid "Your account"
+msgstr "Uw account"
+
+#. Set the title
+#: ../modules/brand.php:58 ../widgets/brands.php:16
+msgid "Brands"
+msgstr "Merken"
+
+#: ../modules/cart.php:59
+msgid "Quantity has been updated"
+msgstr "Hoeveelheid is aangepast"
+
+#: ../modules/cart.php:92
+msgid "Item deleted from cart"
+msgstr "Item is verwijderd uit het winkelmandje"
+
+#: ../modules/cart.php:127 ../widgets/minicart.php:18
+msgid "Unable to load the shopping cart"
+msgstr "Uw winkelmandje kon niet opgevraagd worden"
+
+#. Set the title
+#: ../modules/cart.php:142 ../templates/cart.php:19
+msgid "Your shopping cart"
+msgstr "Uw winkelmandje"
+
+#. Set generic title
+#: ../modules/catalog.php:75
+msgid "Catalog"
+msgstr "Catalogus"
+
+#: ../modules/checkout.php:67
+msgid "Unable to remove the voucher code"
+msgstr ""
+
+#: ../modules/checkout.php:71
+msgid "Voucher code has been removed"
+msgstr ""
+
+#: ../modules/checkout.php:85
+msgid "This is a personally assigned voucher. Please login first."
+msgstr ""
+
+#: ../modules/checkout.php:91
+msgid "This voucher does not belong to your account."
+msgstr ""
+
+#: ../modules/checkout.php:97
+msgid "This voucher is not activated."
+msgstr ""
+
+#: ../modules/checkout.php:103
+msgid "This voucher is not yet active."
+msgstr ""
+
+#: ../modules/checkout.php:109
+msgid "This voucher has reached its limit of uses."
+msgstr ""
+
+#: ../modules/checkout.php:115
+msgid "This voucher has already been used by your account."
+msgstr ""
+
+#: ../modules/checkout.php:121
+msgid "This voucher has expired."
+msgstr ""
+
+#: ../modules/checkout.php:127 ../modules/checkout.php:135
+msgid "Voucher code is invalid, please try again."
+msgstr ""
+
+#: ../modules/checkout.php:139
+msgid "Voucher code has been applied"
+msgstr ""
+
+#. Notify the user
+#: ../modules/checkout.php:338
+msgid "We were unable to complete your order, please try again."
+msgstr "We kunnen uw bestelling niet afronden, gelieve opnieuw te proberen"
+
+#. Notify the user
+#: ../modules/checkout.php:348 ../modules/payment.php:149
+#: ../modules/payment.php:432 ../modules/payment.php:530
+msgid "Thank you for your order!"
+msgstr "Bedankt voor uw bestelling!"
+
+#. Notify the user
+#: ../modules/checkout.php:405
+msgid "Your cart is empty"
+msgstr ""
+
+#. Set the title
+#: ../modules/checkout.php:494 ../modules/payment.php:374
+#: ../templates/cart.php:70 ../templates/checkout.php:17
+#: ../templates/widget-minicart-ajax.php:20
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#. Set the title
+#: ../modules/login.php:38 ../templates/login.php:6
+msgid "Customer Login"
+msgstr ""
+
+#. Notify the user
+#: ../modules/payment.php:177 ../modules/payment.php:278
+msgid "Your payment has failed, please try again or choose a different method."
+msgstr ""
+"De betaling is mislukt, gelieve opnieuw te proberen of een andere "
+"betaalmethode te kiezen."
+
+#. end if
+#. Notify the user
+#: ../modules/payment.php:250 ../modules/shipping.php:161
+msgid "Your order has been cancelled"
+msgstr "Uw bestelling is geannuleerd"
+
+#. Notify the user
+#: ../modules/payment.php:322
+msgid "Something went wrong, you will need to login again"
+msgstr ""
+
+#. Notify the user
+#: ../modules/payment.php:357
+msgid "We could not load your order, please try again"
+msgstr ""
+
+#. Set the title
+#: ../modules/payment.php:473
+msgid "Validating payment"
+msgstr ""
+
+#: ../modules/product.php:48
+msgid "Unable to add this product to the shopping cart"
+msgstr "Product toevoegen aan winkelmandje is mislukt"
+
+#: ../modules/product.php:59
+msgid "Please choose one of the options"
+msgstr "Gelieve een van deze opties te kiezen"
+
+#: ../modules/register.php:40 ../modules/reset.php:42
+msgid "Captcha was invalid, please try again"
+msgstr ""
+
+#: ../modules/register.php:84
+msgid "Thank you for registering your account"
+msgstr "Bedankt voor het registreren van uw account"
+
+#: ../modules/register.php:88
+msgid "Your account has been created, but we were unable to login"
+msgstr "Uw account is aangemaakt, maar het systeem kon u niet aanmelden"
+
+#: ../modules/register.php:95
+msgid "Sorry, but we were unable to create your account"
+msgstr ""
+
+#. end if
+#. Set the title
+#: ../modules/register.php:170
+msgid "Register a new customer account"
+msgstr "Maak een nieuw klantaccount aan"
+
+#: ../modules/reset.php:51
+msgid ""
+"We were unable to reset your password, please try again and check your email "
+"address."
+msgstr ""
+"Het opnieuw instellen van uw paswoord is mislukt. Gelieve opnieuw te "
+"proberen en uw email adres te controleren."
+
+#: ../modules/reset.php:55
+msgid "We have sent instructions to your email address to reset your password."
+msgstr ""
+"De instructies om uw paswoord opnieuw in te stellen zijn verstuurd naar uw "
+"email adres."
+
+#. Set the title
+#: ../modules/reset.php:81 ../templates/reset.php:6
+msgid "Reset your password"
+msgstr "Paswoord opnieuw instellen"
+
+#. Set the title
+#: ../modules/search.php:45
+msgid "Search"
+msgstr ""
+
+#. Set the title
+#: ../modules/shipping.php:88
+msgid "Shipping Configuration"
+msgstr "Configuratie verzendmethodes"
+
+#. Notify the user
+#: ../modules/shipping.php:179
+msgid "Something went wrong, please try again"
+msgstr "Er is iets foutgelopen, gelieve opnieuw te proberen"
+
+#: ../templates/account-details-billing.php:9
+msgid "Billing address"
+msgstr "Facturatie adres"
+
+#: ../templates/account-details-billing.php:15
+#: ../templates/account-details-customer.php:29
+#: ../templates/account-details-shipping.php:15
+msgid "Edit"
+msgstr "Aanpassen"
+
+#: ../templates/account-details-customer.php:10
+msgid "Account information"
+msgstr "Account informatie"
+
+#: ../templates/account-details-customer.php:13
+msgid "Contact"
+msgstr "Contact"
+
+#: ../templates/account-details-customer.php:16
+msgid "Company"
+msgstr "Bedrijfsnaam"
+
+#: ../templates/account-details-customer.php:19 ../templates/login.php:15
+#: ../templates/register-company.php:21 ../templates/register.php:22
+#: ../templates/reset.php:14 ../templates/widget-login.php:30
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../templates/account-details-customer.php:22
+#: ../templates/register-company.php:11 ../templates/register-contact.php:39
+msgid "Phone"
+msgstr "Telefoon"
+
+#: ../templates/account-details-customer.php:30
+msgid "Logout"
+msgstr "Afmelden"
+
+#: ../templates/account-details-shipping.php:9
+msgid "Shipping address"
+msgstr "Verzendadres"
+
+#: ../templates/account-edit.php:15 ../templates/account.php:9
+msgid "My Account"
+msgstr "Mijn Account"
+
+#. end switch
+#: ../templates/account-edit.php:53
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: ../templates/account-edit.php:54 ../templates/register.php:65
+#: ../templates/reset.php:26 ../templates/shipping.php:18
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../templates/account-invoices.php:11
+msgid "All your invoices"
+msgstr "Alle facturen"
+
+#: ../templates/account-invoices.php:11
+msgid "Recent invoices"
+msgstr "Recente facturen"
+
+#: ../templates/account-invoices.php:13 ../templates/account-orders.php:13
+msgid "View all"
+msgstr "Alles bekijken"
+
+#: ../templates/account-invoices.php:19 ../templates/account-orders.php:19
+msgid "Back to My Account"
+msgstr "Terug naar Mijn Account"
+
+#: ../templates/account-invoices.php:26 ../templates/account-orders.php:26
+msgid "Number"
+msgstr "Nummer"
+
+#: ../templates/account-invoices.php:27 ../templates/account-orders.php:27
+msgid "Date"
+msgstr "Datum"
+
+#: ../templates/account-invoices.php:28
+msgid "Expires on"
+msgstr "Vervalt op"
+
+#: ../templates/account-invoices.php:29 ../templates/account-orders.php:28
+#: ../templates/cart-table.php:7 ../templates/checkout-cart.php:7
+#: ../templates/payment-order.php:11
+msgid "Total"
+msgstr "Totaal"
+
+#: ../templates/account-invoices.php:30
+msgid "Paid"
+msgstr "Betaald"
+
+#: ../templates/account-invoices.php:31 ../templates/account-orders.php:30
+msgid "Actions"
+msgstr "Acties"
+
+#: ../templates/account-invoices.php:42 ../templates/account-orders.php:40
+msgid "Download PDF"
+msgstr "PDF downloaden"
+
+#: ../templates/account-invoices.php:42 ../templates/account-orders.php:40
+msgid "View"
+msgstr "Bekijken"
+
+#: ../templates/account-invoices.php:48
+msgid "No invoices"
+msgstr "Geen facturen"
+
+#: ../templates/account-orders.php:11
+msgid "All your orders"
+msgstr "Alle bestellingen"
+
+#: ../templates/account-orders.php:11
+msgid "Recent orders"
+msgstr "Recente bestellingen"
+
+#: ../templates/account-orders.php:29
+msgid "Status"
+msgstr "Status"
+
+#: ../templates/account-orders.php:46
+msgid "No orders"
+msgstr "Geen bestellingen"
+
+#: ../templates/brand.php:9
+msgid "Our Brands"
+msgstr "Onze Merken"
+
+#. end if
+#: ../templates/cart-table.php:4 ../templates/checkout-cart.php:6
+#: ../templates/payment-order.php:10
+msgid "Product"
+msgstr "Product"
+
+#: ../templates/cart-table.php:5
+msgid "Quantity"
+msgstr "Hoeveelheid"
+
+#: ../templates/cart-table.php:6
+msgid "Amount"
+msgstr "Bedrag"
+
+#: ../templates/cart-table.php:9 ../templates/checkout-cart.php:8
+#: ../templates/payment-order.php:12
+msgid "VAT"
+msgstr "BTW"
+
+#: ../templates/cart-table.php:73
+msgid "Remove item"
+msgstr "Item verwijderen"
+
+#: ../templates/cart-table.php:73
+msgid "Are you sure you want to remove this item from your cart?"
+msgstr "Bent u zeker dat u dit item wilt verwijderen uit het winkelmandje?"
+
+#: ../templates/cart.php:38
+msgid "Cart totals"
+msgstr "Winkelmandje totalen"
+
+#: ../templates/cart.php:43 ../templates/checkout-cart.php:52
+msgid "Total VAT excl."
+msgstr "Totaal excl. BTW"
+
+#: ../templates/cart.php:47 ../templates/checkout-cart.php:56
+#: ../templates/payment-order.php:29
+msgid "Total VAT"
+msgstr "Totaal BTW"
+
+#: ../templates/cart.php:51 ../templates/checkout-cart.php:72
+#: ../templates/payment-order.php:33
+msgid "Total VAT incl."
+msgstr "Totaal incl. BTW"
+
+#: ../templates/cart.php:64
+msgid "Continue shopping"
+msgstr "Verder winkelen"
+
+#: ../templates/cart.php:84
+msgid "Your shopping cart is empty"
+msgstr "Uw winkelmandje is leeg"
+
+#: ../templates/catalog-categories.php:23
+msgid "View products"
+msgstr "Bekijk producten"
+
+#: ../templates/catalog-filters.php:35 ../templates/catalog-product.php:35
+#: ../templates/product-info.php:19
+msgid "Stock"
+msgstr "Voorraad"
+
+#: ../templates/catalog-filters.php:39
+msgid "In stock only"
+msgstr "Alleen op voorraad"
+
+#: ../templates/catalog-pagination.php:10
+msgid "First"
+msgstr "Eerste"
+
+#: ../templates/catalog-pagination.php:17
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../templates/catalog-pagination.php:24
+msgid "Next"
+msgstr "Volgende"
+
+#: ../templates/catalog-pagination.php:31
+msgid "Last"
+msgstr "Laatste"
+
+#: ../templates/catalog-pagination.php:46
+msgid "Pagination"
+msgstr "Paginering"
+
+#: ../templates/catalog-pagination.php:48
+msgid "Backward"
+msgstr "Terug"
+
+#: ../templates/catalog-pagination.php:60
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../templates/catalog-pagination.php:68
+msgid "Forward"
+msgstr "Verder"
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+msgid "In stock"
+msgstr "In voorraad"
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+#: ../templates/product-variations.php:19
+msgid "Not in stock"
+msgstr "Niet in voorraad"
+
+#: ../templates/catalog-product.php:46 ../templates/product-buy.php:13
+#, php-format
+msgid "<small>From <s>%s</s> for </small>%s"
+msgstr "<small>Van <s>%s</s> voor </small>%s"
+
+#. end switch
+#. end if
+#: ../templates/catalog-product.php:62 ../templates/product-suggestions.php:20
+#: ../templates/search.php:44 ../templates/widget-bestsellers.php:20
+#: ../templates/widget-category.php:43
+msgid "View product"
+msgstr "Bekijk product"
+
+#: ../templates/catalog-toolbar.php:16
+msgid "Results per page"
+msgstr "Resultaten per pagina"
+
+#: ../templates/catalog-toolbar.php:26 ../templates/catalog-toolbar.php:38
+#: ../templates/catalog-toolbar.php:66
+msgid "All Results"
+msgstr "Alle resultaten"
+
+#: ../templates/catalog-toolbar.php:29 ../templates/catalog-toolbar.php:41
+#: ../templates/catalog-toolbar.php:57
+msgid "Page"
+msgstr "Pagina"
+
+#: ../templates/catalog-toolbar.php:45 ../templates/catalog-toolbar.php:100
+msgid "Toggle Dropdown"
+msgstr "Toggle Dropdown"
+
+#: ../templates/catalog-toolbar.php:130 ../templates/catalog-toolbar.php:132
+msgid "Sort by"
+msgstr "Sorteren op"
+
+#: ../templates/checkout-cart.php:43
+msgid "Total cart"
+msgstr "Totaal winkelmandje"
+
+#: ../templates/checkout-cart.php:47
+msgid "Discounts"
+msgstr "Kortingen"
+
+#: ../templates/checkout-cart.php:61
+msgid "Shipping cost"
+msgstr "Verzendkost"
+
+#: ../templates/checkout-cart.php:67
+msgid "Payment cost"
+msgstr "Betalingskost"
+
+#: ../templates/checkout-login.php:7
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../templates/checkout-login.php:8 ../templates/login.php:16
+#: ../templates/register.php:28 ../templates/widget-login.php:31
+msgid "Password"
+msgstr "Paswoord"
+
+#: ../templates/checkout-login.php:9 ../templates/login.php:17
+#: ../templates/widget-login.php:32
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+#: ../templates/checkout-login.php:10 ../templates/login.php:18
+#: ../templates/widget-login.php:33
+msgid "Log In"
+msgstr "Aanmelden"
+
+#. end if
+#: ../templates/checkout-payment.php:31 ../templates/checkout-payment.php:33
+msgid "No payment methods found."
+msgstr "Geen betaalmethodes gevonden."
+
+#: ../templates/checkout-payment.php:31 ../templates/checkout-shipping.php:31
+msgid "Please login first."
+msgstr "Gelieve eerst aan te melden."
+
+#: ../templates/checkout-payment.php:33
+msgid "Please contact us for a custom solution."
+msgstr "Contacteer ons voor een oplossing op maat."
+
+#. end if
+#: ../templates/checkout-shipping.php:31 ../templates/checkout-shipping.php:33
+msgid "No shipping methods found."
+msgstr "Geen verzendmethodes gevonden."
+
+#: ../templates/checkout-shipping.php:33
+msgid "Please contact us for a custom quote."
+msgstr "Contacteer ons voor een offerte op maat."
+
+#: ../templates/checkout.php:22
+msgid "Account and address"
+msgstr "Account en adres"
+
+#: ../templates/checkout.php:25
+msgid "Customer login"
+msgstr "Klant login"
+
+#: ../templates/checkout.php:39
+msgid "Shipping method"
+msgstr "Verzendmethode"
+
+#: ../templates/checkout.php:41
+msgid "Payment method"
+msgstr "Betaalmethode"
+
+#: ../templates/checkout.php:46 ../templates/payment.php:28
+msgid "Review your order"
+msgstr "Kijk uw bestelling na"
+
+#: ../templates/checkout.php:51
+msgid "Discount voucher"
+msgstr "Kortingsbon"
+
+#: ../templates/checkout.php:56
+msgid "Remove voucher"
+msgstr "Kortingsbon verwijderen"
+
+#: ../templates/checkout.php:60
+msgid "Enter voucher code"
+msgstr "Geef kortingsbon op"
+
+#: ../templates/checkout.php:61
+msgid "Apply voucher"
+msgstr "Bon toepassen"
+
+#: ../templates/checkout.php:68 ../templates/checkout.php:70
+msgid "Optional comments"
+msgstr "Optionele opmerkingen"
+
+#: ../templates/checkout.php:76
+msgid "Confirm your order"
+msgstr "Bevestig uw bestelling"
+
+#: ../templates/checkout.php:83 ../templates/checkout.php:85
+msgid "I agree to the"
+msgstr ""
+
+#: ../templates/checkout.php:83 ../templates/checkout.php:85
+msgid "general terms & conditions"
+msgstr ""
+
+#: ../templates/checkout.php:90
+msgid "Forgot an item?"
+msgstr "Nog iets vergeten?"
+
+#: ../templates/checkout.php:90
+msgid "Edit your shopping cart"
+msgstr "Uw winkelmandje aanpassen"
+
+#: ../templates/checkout.php:91
+msgid "Place order"
+msgstr "Plaats bestelling"
+
+#: ../templates/checkout.php:100
+msgid "Loading, please wait..."
+msgstr "Bezig met laden, even geduld aub..."
+
+#: ../templates/payment-verify.php:15
+msgid "Verifying your payment, please wait"
+msgstr ""
+
+#: ../templates/payment.php:7 ../templates/payment.php:39
+msgid "Confirm your payment"
+msgstr "Bevestig uw betaling"
+
+#: ../templates/payment.php:41
+msgid "Pay now"
+msgstr "Nu betalen"
+
+#: ../templates/payment.php:42
+msgid "Cancel your order"
+msgstr "Uw bestelling annuleren"
+
+#: ../templates/product-description.php:5
+msgid "Description"
+msgstr "Omschrijving"
+
+#: ../templates/product-info.php:8
+msgid "SKU"
+msgstr "SKU"
+
+#: ../templates/product-info.php:13
+msgid "Brand"
+msgstr "Merk"
+
+#: ../templates/product-info.php:39
+msgid "Categories"
+msgstr "Categorieën"
+
+#: ../templates/product-properties.php:10
+msgid "Product Specifications"
+msgstr "Product specificaties"
+
+#: ../templates/product-suggestions.php:4
+msgid "Suggestions"
+msgstr "Suggesties"
+
+#: ../templates/product-variations.php:10
+msgid "Make a choice"
+msgstr "Maak een keuze"
+
+#. end if
+#: ../templates/register-address-billing.php:21
+msgid "Same as shipping address"
+msgstr "Identiek aan verzendadres"
+
+#: ../templates/register-address-billing.php:24
+msgid "Billing Address"
+msgstr "Facturatie adres"
+
+#. end if
+#: ../templates/register-address-shipping.php:21
+msgid "Same as billing address"
+msgstr "Identiek aan leveringsadres"
+
+#: ../templates/register-address-shipping.php:24
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+#: ../templates/register-address.php:14
+msgid "Street"
+msgstr "Straat"
+
+#: ../templates/register-address.php:16
+msgid "Please enter your street name"
+msgstr "Gelieve uw straatnaam in te vullen"
+
+#: ../templates/register-address.php:19
+msgid "Nr"
+msgstr "Nr"
+
+#: ../templates/register-address.php:21
+msgid "Please enter your street number"
+msgstr "Gelieve uw huisnummer in te vullen"
+
+#: ../templates/register-address.php:24
+msgid "Box"
+msgstr "Bus"
+
+#: ../templates/register-address.php:24 ../templates/register-company.php:7
+#: ../templates/register-company.php:11 ../templates/register-company.php:16
+#: ../templates/register-company.php:21 ../templates/register-company.php:26
+#: ../templates/register-company.php:31 ../templates/register-contact.php:7
+#: ../templates/register-contact.php:34 ../templates/register-contact.php:39
+msgid "Optional"
+msgstr "Optioneel"
+
+#: ../templates/register-address.php:28
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: ../templates/register-address.php:30
+msgid "Please enter your zipcode"
+msgstr "Gelieve uw postcode in te vullen"
+
+#: ../templates/register-address.php:33
+msgid "City"
+msgstr "Stad"
+
+#: ../templates/register-address.php:35
+msgid "Please enter your city"
+msgstr "Gelieve de naam van uw stad in te geven"
+
+#: ../templates/register-address.php:38
+msgid "Country"
+msgstr "Land"
+
+#: ../templates/register-address.php:46
+msgid "Please enter your country"
+msgstr "Gelieve uw land te selecteren"
+
+#: ../templates/register-company.php:5
+msgid "Company Information"
+msgstr "Bedrijfsinformatie"
+
+#: ../templates/register-company.php:7
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: ../templates/register-company.php:13
+msgid "Please enter the company phone number, format: +32 (123) 123456"
+msgstr ""
+"Gelieve het telefoonnummer van uw bedrijf in te geven, formaat: +32 (123) "
+"456789"
+
+#: ../templates/register-company.php:16
+msgid "Fax"
+msgstr "Fax"
+
+#: ../templates/register-company.php:18
+msgid "Please enter the company fax number, format: +32 (123) 123456"
+msgstr ""
+"Gelieve het faxnummer van uw bedrijf in te geven, formaat: +32 (123) 456789"
+
+#: ../templates/register-company.php:23
+msgid "Please enter the general company email adress"
+msgstr "Gelieve het algemeen e-mail adres van uw bedrijf in te geven"
+
+#: ../templates/register-company.php:26
+msgid "Website"
+msgstr "Website"
+
+#: ../templates/register-company.php:28
+msgid ""
+"Please enter the company website adress, format: http://www.yourdomain.ext"
+msgstr ""
+"Gelieve de website van uw bedrijf in te geven, formaat: http://www.uwdomein."
+"ext"
+
+#: ../templates/register-company.php:31
+msgid "VAT Number"
+msgstr "BTW Nummer"
+
+#: ../templates/register-company.php:33
+msgid "Please enter the VAT number for your company"
+msgstr "Gelieve het BTW nummer van uw bedrijf in te geven"
+
+#: ../templates/register-contact.php:5
+msgid "Personal Information"
+msgstr "Persoonlijke informatie"
+
+#. end function
+#. end class
+#: ../templates/register-contact.php:7 ../widgets/minicart-form.php:3
+msgid "Title"
+msgstr "Titel"
+
+#: ../templates/register-contact.php:11
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: ../templates/register-contact.php:13
+msgid "Please enter your firstname"
+msgstr "Gelieve uw voornaam in te vullen"
+
+#: ../templates/register-contact.php:16
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: ../templates/register-contact.php:18
+msgid "Please enter your lastname"
+msgstr "Gelieve uw achternaam in te vullen"
+
+#: ../templates/register-contact.php:21
+msgid "Gender"
+msgstr "Geslacht"
+
+#: ../templates/register-contact.php:25
+msgid "Male"
+msgstr "Man"
+
+#: ../templates/register-contact.php:29
+msgid "Female"
+msgstr "Vrouw"
+
+#: ../templates/register-contact.php:34
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: ../templates/register-contact.php:36
+msgid "Please enter your mobile number, format: +32 (123) 123456"
+msgstr ""
+"Gelieve uw mobiel telefoonnummer in te vullen, formaat: +32 (123) 456789"
+
+#: ../templates/register-contact.php:41
+msgid "Please enter your phone number, format: +32 (123) 123456"
+msgstr "Gelieve uw telefoonnummer in te vullen, formaat: +32 (123) 456789"
+
+#: ../templates/register.php:13
+msgid "Create a new account"
+msgstr "Maak een nieuw account"
+
+#: ../templates/register.php:20
+msgid "Account Information"
+msgstr "Account informatie"
+
+#: ../templates/register.php:24
+msgid "Please enter your email adress"
+msgstr "Gelieve uw e-mail adres in te vullen"
+
+#: ../templates/register.php:30
+msgid ""
+"Your password must be at least 8 to 20 characters long and contain at least "
+"one letter and one number or a special character"
+msgstr ""
+"Het paswoord moet minstens 8 karakters lang zijn, en minstens 1 letter, "
+"nummer en symbool bevatten"
+
+#: ../templates/register.php:33
+msgid "Confirm password"
+msgstr "Bevestig paswoord"
+
+#: ../templates/register.php:35
+msgid "Please repeat the password"
+msgstr "Gelieve het paswoord te herhalen"
+
+#: ../templates/register.php:63
+msgid "Create account"
+msgstr "Account aanmaken"
+
+#: ../templates/reset.php:12
+msgid "Enter your e-mail address"
+msgstr "Vul uw e-mail adres in"
+
+#: ../templates/reset.php:16
+msgid "Enter the e-mail address of your account"
+msgstr "Vul het e-mail adres in dat uw voor uw account wilt gebruiken"
+
+#: ../templates/reset.php:24
+msgid "Submit"
+msgstr "Verzenden"
+
+#: ../templates/search.php:20
+msgid "Products"
+msgstr ""
+
+#: ../templates/search.php:26 ../templates/search.php:66
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: ../templates/search.php:60
+msgid "Website content"
+msgstr ""
+
+#: ../templates/shipping-kiala.php:7
+msgid ""
+"Please select the Kiala access point from the map below, as the pickup "
+"location for your order."
+msgstr "Selecteer een Kiala afhaalpunt op de kaart hieronder."
+
+#: ../templates/shipping.php:9
+msgid "Shipping configuration"
+msgstr "Configuratie verzendmethodes"
+
+#: ../templates/widget-login.php:10
+msgid "Your Account"
+msgstr "Uw Account"
+
+#: ../templates/widget-login.php:20
+msgid "Account page"
+msgstr "Account pagina"
+
+#: ../templates/widget-login.php:21
+msgid "Log out"
+msgstr "Afmelden"
+
+#: ../templates/widget-minicart-ajax.php:17
+msgid "item"
+msgstr "artikel"
+
+#: ../templates/widget-minicart-ajax.php:17
+msgid "items"
+msgstr "artikelen"
+
+#: ../templates/widget-minicart-ajax.php:38
+msgid "View Cart"
+msgstr "Bekijk winkelmandje"
+
+#: ../templates/widget-poweredby.php:3 ../templates/widget-poweredby.php:6
+msgid "Powered by"
+msgstr "Powered by"
+
+#. end function
+#. end class
+#. end if
+#. end function
+#. end class
+#: ../widgets/bestsellers-form.php:3 ../widgets/brands-form.php:3
+#: ../widgets/category-form.php:3 ../widgets/filters-form.php:3
+#: ../widgets/login-form.php:3 ../widgets/newsletter-form.php:3
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../widgets/bestsellers-form.php:7 ../widgets/category-form.php:7
+msgid "Maximum number of items:"
+msgstr "Maximum aantal items:"
+
+#: ../widgets/bestsellers.php:10
+msgid "Zibbra Bestsellers"
+msgstr "Zibbra Bestsellers"
+
+#: ../widgets/bestsellers.php:11
+msgid "Display a listing of the best selling products."
+msgstr "Toon een lijst met de best verkochte producten."
+
+#: ../widgets/bestsellers.php:19
+msgid "Bestsellers"
+msgstr "Bestsellers"
+
+#: ../widgets/brands-form.php:7
+msgid "Thumbnail size:"
+msgstr "Thumbnail grootte:"
+
+#: ../widgets/brands.php:7
+msgid "Zibbra Brands"
+msgstr "Zibbra Merken"
+
+#: ../widgets/brands.php:8
+msgid "Display a listing of logos for the manufacturers."
+msgstr "Toon een overzicht met logo's van uw merken."
+
+#: ../widgets/category-form.php:22
+msgid "Sort type?"
+msgstr ""
+
+#: ../widgets/category-form.php:30
+msgid "Sort direction?"
+msgstr ""
+
+#: ../widgets/category-form.php:38
+msgid "Category?"
+msgstr ""
+
+#. * @var ZCategory $category
+#: ../widgets/category-form.php:46
+msgid "Show description?"
+msgstr ""
+
+#: ../widgets/category.php:26
+msgid "Zibbra Category"
+msgstr ""
+
+#: ../widgets/category.php:27
+msgid "Display a listing of products from a specific category"
+msgstr ""
+
+#: ../widgets/category.php:35
+msgid "In the spotlight"
+msgstr ""
+
+#: ../widgets/filters.php:7
+msgid "Zibbra Filters"
+msgstr ""
+
+#: ../widgets/filters.php:8
+msgid "Display catalog filters as a widget"
+msgstr ""
+
+#: ../widgets/filters.php:16
+msgid "Filters"
+msgstr ""
+
+#: ../widgets/login-form.php:7
+msgid "Icon:"
+msgstr ""
+
+#: ../widgets/login-form.php:12
+msgid "Popup "
+msgstr "Popup "
+
+#: ../widgets/login-form.php:16 ../widgets/minicart-form.php:18
+msgid "Click instead of hover "
+msgstr ""
+
+#: ../widgets/login.php:7
+msgid "Zibbra Login"
+msgstr "Zibbra Login"
+
+#: ../widgets/login.php:8
+msgid "Login widget for customers"
+msgstr "Widget voor klantenlogin"
+
+#: ../widgets/login.php:16
+msgid "Login"
+msgstr "Aanmelden"
+
+#. end function
+#. end class
+#: ../widgets/menu-form.php:3
+msgid "Override main menu?"
+msgstr "Hoofdmenu vervangen?"
+
+#: ../widgets/menu-form.php:10
+msgid "Show Home?"
+msgstr "Toon Home?"
+
+#: ../widgets/menu.php:25
+msgid "Zibbra Menu"
+msgstr "Zibbra Menu"
+
+#: ../widgets/menu.php:26
+msgid "Navigation menu based on your catalog categories."
+msgstr "Menu gebaseerd op uw catalogus categoriën."
+
+#: ../widgets/minicart-form.php:7
+msgid "Popup"
+msgstr "Popup"
+
+#: ../widgets/minicart-form.php:12
+msgid "Show links?"
+msgstr "Toon links?"
+
+#: ../widgets/minicart.php:9
+msgid "Zibbra Mini Cart"
+msgstr "Zibbra Mini Cart"
+
+#: ../widgets/minicart.php:10
+msgid "Show a summary of the shopping cart."
+msgstr "Toon een samenvatting van het winkelmandje."
+
+#: ../widgets/minicart.php:35
+msgid "Shopping Cart"
+msgstr "Winkelmandje"
+
+#: ../widgets/newsletter-form.php:7
+msgid "Description:"
+msgstr "Omschrijving:"
+
+#: ../widgets/newsletter-form.php:11
+msgid "Input text:"
+msgstr "Tekst veld:"
+
+#: ../widgets/newsletter-form.php:15
+msgid "Button text:"
+msgstr "Tekst knop:"
+
+#: ../widgets/newsletter-form.php:19
+msgid "Icon class:"
+msgstr "Icoon class:"
+
+#: ../widgets/newsletter.php:7
+msgid "Zibbra Newsletter"
+msgstr "Zibbra Nieuwsbrief"
+
+#: ../widgets/newsletter.php:8
+msgid "Newsletter subscription for the Zibbra E-Marketing module."
+msgstr "Nieuwsbrief inschrijfmodule voor Zibbra E-Marketing."
+
+#: ../widgets/newsletter.php:19 ../widgets/newsletter.php:22
+msgid "Subscribe"
+msgstr "Abboneren"
+
+#: ../widgets/newsletter.php:20
+msgid "Subscribe to our newsletter"
+msgstr "Abboneer op onze nieuwsbrief"
+
+#: ../widgets/newsletter.php:21
+msgid "Your e-mail"
+msgstr "Uw e-mail"
+
+#: ../widgets/newsletter.php:62 ../widgets/newsletter.php:80
+msgid "An error occured, please try again"
+msgstr "Er is een fout opgetreden, gelieve opnieuw te proberen"
+
+#: ../widgets/newsletter.php:79 ../widgets/newsletter.php:94
+msgid "Invalid email, please try again"
+msgstr "Ongeldig email adres, gelieve opnieuw te proberen"
+
+#: ../widgets/newsletter.php:87
+msgid "Thank you for subscribing!"
+msgstr "Bedankt om te abboneren!"
+
+#: ../widgets/notify.php:7
+msgid "Zibbra Notifications"
+msgstr "Zibbra Meldingen"
+
+#: ../widgets/notify.php:8
+msgid "Display notifications."
+msgstr "Toon meldingen."
+
+#: ../widgets/poweredby.php:7
+msgid "Powered by Zibbra"
+msgstr "Powered by Zibbra"
+
+#: ../widgets/poweredby.php:8
+msgid "Show a small label that this webshop is powered by Zibbra"
+msgstr "Toon een klein label dat deze webshop gedreven wordt door Zibbra"
+
+#~ msgid "Demo"
+#~ msgstr "Demo"
+
+#~ msgid "Invalid status"
+#~ msgstr "Ongeldige status"
+
+#~ msgid "All"
+#~ msgstr "Alles"
+
+#~ msgid "of"
+#~ msgstr "van"
+
+#~ msgid "Product specifications"
+#~ msgstr "Product eigenschappen"
+
+#~ msgid "Select option"
+#~ msgstr "Selecteer optie"
+
+#~ msgid "Out of stock"
+#~ msgstr "Niet in voorraad"
+
+#~ msgid "Properties"
+#~ msgstr "Eigenschappen"
+
+#~ msgid "Update cart"
+#~ msgstr "Winkelmandje bijwerken"
+
+#~ msgid ""
+#~ "Are you sure you want to remove all products from your shopping cart?"
+#~ msgstr ""
+#~ "Bent u zeker dat u alle producten uit het winkelmandje wilt verwijderen?"
+
+#~ msgid "Empty cart"
+#~ msgstr "Winkelmandje leegmaken"

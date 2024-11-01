@@ -1,0 +1,18 @@
+#zibbra-register > form > section > section {
+			
+	float: left;
+	width: 50%;
+
+}
+
+#zibbra-register > form > section > .clear {
+			
+	clear: both;
+
+}
+
+#zibbra-register > form > section > section > .toggle {
+			
+	float: right;
+
+}

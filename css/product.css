@@ -1,0 +1,42 @@
+.zibbra-product-addons .panel .addon {
+
+    display: block;
+    padding: 10px;
+
+}
+
+.zibbra-product-addons .panel .addon .image {
+
+    float: left;
+    width: 60px;
+    height: 60px;
+    background-position: 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 3px!important;
+
+}
+
+.zibbra-product-addons .panel .addon .info {
+
+    padding-left: 70px;
+
+}
+
+.zibbra-product-addons .panel .addon .info .name {
+
+}
+
+.zibbra-product-addons .panel .addon .info .price {
+
+    float: left;
+
+}
+
+.zibbra-product-addons .panel .addon .info .quantity {
+
+    float: right;
+    text-align: center;
+    max-width: 50px;
+
+}

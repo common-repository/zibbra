@@ -1,0 +1,23 @@
+.widget_zibbra_plugin_login > a.toggle > span {
+
+    display: inline;
+    cursor: pointer;
+
+}
+
+.widget_zibbra_plugin_login.popup > a.toggle {
+
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.widget_zibbra_plugin_login.popup > .zibbra-login-widget {
+
+    position: absolute;
+    top: 34px;
+    left: 0;
+    min-width: 280px;
+    background-color: #ffffff;
+
+}

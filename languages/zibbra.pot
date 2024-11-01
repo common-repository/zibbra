@@ -1,0 +1,1517 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-20 11:22+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. end if
+#: ../core/admin-form.php:8
+msgid "Plugin version"
+msgstr ""
+
+#: ../core/admin-form.php:10
+msgid "Client Library version"
+msgstr ""
+
+#: ../core/admin-form.php:12
+msgid "Zibbra Plugin"
+msgstr ""
+
+#: ../core/admin-form.php:13
+msgid "This page allows you to configure the Zibbra E-Commerce plugin."
+msgstr ""
+
+#: ../core/admin-form.php:16
+msgid "Get Started"
+msgstr ""
+
+#: ../core/admin-form.php:24
+msgid "Need Help?"
+msgstr ""
+
+#: ../core/admin-form.php:32
+msgid "Developers"
+msgstr ""
+
+#: ../core/admin-form.php:54 ../core/admin-form.php:57
+msgid "API Settings"
+msgstr ""
+
+#: ../core/admin-form.php:63
+msgid "API Client ID"
+msgstr ""
+
+#: ../core/admin-form.php:67
+msgid "API Client Secret"
+msgstr ""
+
+#: ../core/admin-form.php:71
+msgid "Zibbra Environment"
+msgstr ""
+
+#: ../core/admin-form.php:74
+msgid "Production"
+msgstr ""
+
+#: ../core/admin-form.php:75
+msgid "Staging"
+msgstr ""
+
+#: ../core/admin-form.php:77
+msgid "Development"
+msgstr ""
+
+#: ../core/admin-form.php:78
+msgid "Amazon AWS"
+msgstr ""
+
+#: ../core/admin-form.php:84
+msgid "Enable debugging?"
+msgstr ""
+
+#: ../core/admin-form.php:87 ../core/admin-form.php:167
+#: ../core/admin-form.php:176 ../core/admin-form.php:185
+#: ../core/admin-form.php:194 ../core/admin-form.php:203
+#: ../core/admin-form.php:212 ../core/admin-form.php:221
+#: ../core/admin-form.php:259 ../core/admin-form.php:268
+#: ../core/admin-form.php:299 ../core/admin-form.php:308
+#: ../core/admin-form.php:317 ../core/admin-form.php:326
+#: ../core/admin-form.php:335 ../core/admin-form.php:368
+#: ../core/admin-form.php:377 ../core/admin-form.php:386
+#: ../core/admin-form.php:395 ../core/admin-form.php:424
+#: ../core/admin-form.php:433 ../core/admin-form.php:488
+#: ../core/admin-form.php:533 ../core/admin-form.php:542
+#: ../core/admin-form.php:551 ../templates/account-invoices.php:41
+#: ../widgets/category.php:54 ../widgets/minicart-form.php:8
+#: ../widgets/minicart-form.php:13
+msgid "Yes"
+msgstr ""
+
+#: ../core/admin-form.php:88 ../core/admin-form.php:168
+#: ../core/admin-form.php:177 ../core/admin-form.php:186
+#: ../core/admin-form.php:195 ../core/admin-form.php:204
+#: ../core/admin-form.php:213 ../core/admin-form.php:222
+#: ../core/admin-form.php:260 ../core/admin-form.php:269
+#: ../core/admin-form.php:300 ../core/admin-form.php:309
+#: ../core/admin-form.php:318 ../core/admin-form.php:327
+#: ../core/admin-form.php:336 ../core/admin-form.php:369
+#: ../core/admin-form.php:378 ../core/admin-form.php:387
+#: ../core/admin-form.php:396 ../core/admin-form.php:425
+#: ../core/admin-form.php:434 ../core/admin-form.php:489
+#: ../core/admin-form.php:534 ../core/admin-form.php:543
+#: ../core/admin-form.php:552 ../templates/account-invoices.php:41
+#: ../widgets/category.php:55 ../widgets/minicart-form.php:9
+#: ../widgets/minicart-form.php:14
+msgid "No"
+msgstr ""
+
+#: ../core/admin-form.php:93
+msgid "Your current token"
+msgstr ""
+
+#: ../core/admin-form.php:97
+msgid "Token expires on"
+msgstr ""
+
+#. end if
+#: ../core/admin-form.php:111
+msgid "Reset token?"
+msgstr ""
+
+#: ../core/admin-form.php:122 ../core/admin-form.php:125
+msgid "Catalog Settings"
+msgstr ""
+
+#: ../core/admin-form.php:131
+msgid "Products per page?"
+msgstr ""
+
+#: ../core/admin-form.php:135
+msgid "Default sort type?"
+msgstr ""
+
+#: ../core/admin-form.php:138 ../modules/catalog.php:229
+#: ../widgets/category.php:44
+msgid "Best buy"
+msgstr ""
+
+#: ../core/admin-form.php:139 ../modules/catalog.php:230
+#: ../widgets/category.php:45
+msgid "Name"
+msgstr ""
+
+#: ../core/admin-form.php:140 ../modules/catalog.php:231
+#: ../widgets/category.php:46
+msgid "Price"
+msgstr ""
+
+#: ../core/admin-form.php:141 ../modules/catalog.php:232
+#: ../widgets/category.php:47
+msgid "Newest"
+msgstr ""
+
+#: ../core/admin-form.php:146
+msgid "Default sort direction?"
+msgstr ""
+
+#: ../core/admin-form.php:149 ../widgets/category.php:50
+msgid "Ascending"
+msgstr ""
+
+#: ../core/admin-form.php:150 ../widgets/category.php:51
+msgid "Descending"
+msgstr ""
+
+#: ../core/admin-form.php:155
+msgid "Grid or List layout?"
+msgstr ""
+
+#: ../core/admin-form.php:158
+msgid "Grid"
+msgstr ""
+
+#: ../core/admin-form.php:159
+msgid "List"
+msgstr ""
+
+#: ../core/admin-form.php:164
+msgid "Show filters?"
+msgstr ""
+
+#: ../core/admin-form.php:173
+msgid "Filters collapsed?"
+msgstr ""
+
+#: ../core/admin-form.php:182
+msgid "Header in sidebar?"
+msgstr ""
+
+#: ../core/admin-form.php:191
+msgid "Toolbar in sidebar?"
+msgstr ""
+
+#: ../core/admin-form.php:200
+msgid "Show stock info?"
+msgstr ""
+
+#: ../core/admin-form.php:209
+msgid "Show stock when backorder allowed?"
+msgstr ""
+
+#: ../core/admin-form.php:218
+msgid "Show stock quantity?"
+msgstr ""
+
+#: ../core/admin-form.php:227 ../widgets/bestsellers-form.php:17
+#: ../widgets/category-form.php:18
+msgid "Thumbnail size?"
+msgstr ""
+
+#: ../core/admin-form.php:231
+msgid "Button"
+msgstr ""
+
+#: ../core/admin-form.php:234
+msgid "Link product page"
+msgstr ""
+
+#: ../core/admin-form.php:235 ../templates/catalog-product.php:59
+#: ../templates/product-buy.php:19
+msgid "Add to cart"
+msgstr ""
+
+#: ../core/admin-form.php:247 ../core/admin-form.php:250
+msgid "Product Settings"
+msgstr ""
+
+#: ../core/admin-form.php:256
+msgid "Split properties in 2 columns?"
+msgstr ""
+
+#: ../core/admin-form.php:265
+msgid "Title at top?"
+msgstr ""
+
+#: ../core/admin-form.php:287 ../core/admin-form.php:290
+msgid "Cart Settings"
+msgstr ""
+
+#: ../core/admin-form.php:296
+msgid "Show prices VAT included?"
+msgstr ""
+
+#: ../core/admin-form.php:305 ../core/admin-form.php:365
+msgid "Link products?"
+msgstr ""
+
+#: ../core/admin-form.php:314
+msgid "Lock the quantity?"
+msgstr ""
+
+#: ../core/admin-form.php:323
+msgid "Lock the addons?"
+msgstr ""
+
+#: ../core/admin-form.php:332
+msgid "Show continue shopping?"
+msgstr ""
+
+#: ../core/admin-form.php:341
+msgid "URL continue shopping?"
+msgstr ""
+
+#: ../core/admin-form.php:352 ../core/admin-form.php:355
+msgid "Checkout Settings"
+msgstr ""
+
+#: ../core/admin-form.php:361
+msgid "Redirect after order?"
+msgstr ""
+
+#: ../core/admin-form.php:374
+msgid "Allow comments?"
+msgstr ""
+
+#: ../core/admin-form.php:383
+msgid "Enable vouchers?"
+msgstr ""
+
+#: ../core/admin-form.php:392
+msgid "Require agree terms?"
+msgstr ""
+
+#: ../core/admin-form.php:401
+msgid "URL to terms?"
+msgstr ""
+
+#: ../core/admin-form.php:412 ../core/admin-form.php:415
+msgid "Registration Settings"
+msgstr ""
+
+#: ../core/admin-form.php:421
+msgid "Generate password?"
+msgstr ""
+
+#: ../core/admin-form.php:430
+msgid "Primary address is shipping?"
+msgstr ""
+
+#: ../core/admin-form.php:446 ../core/admin-form.php:449
+msgid "Captcha Settings"
+msgstr ""
+
+#: ../core/admin-form.php:453
+#, php-format
+msgid "Register your re-captcha account for free at %s"
+msgstr ""
+
+#: ../core/admin-form.php:457
+msgid "Re-Captcha Site Key"
+msgstr ""
+
+#: ../core/admin-form.php:461
+msgid "Re-Captcha Secret"
+msgstr ""
+
+#: ../core/admin-form.php:472 ../core/admin-form.php:475
+msgid "Google Analytics Settings"
+msgstr ""
+
+#: ../core/admin-form.php:481 ../core/admin-form.php:510
+msgid "Tracking ID?"
+msgstr ""
+
+#: ../core/admin-form.php:485
+msgid "Enable E-Commerce Tracking?"
+msgstr ""
+
+#: ../core/admin-form.php:501 ../core/admin-form.php:504
+msgid "Facebook Pixel Settings"
+msgstr ""
+
+#: ../core/admin-form.php:521 ../core/admin-form.php:524
+msgid "Theme Settings"
+msgstr ""
+
+#: ../core/admin-form.php:530
+msgid "Wrapped Theme?"
+msgstr ""
+
+#: ../core/admin-form.php:539
+msgid "Enclose page title in bootstrap container?"
+msgstr ""
+
+#: ../core/admin-form.php:548
+msgid "Enclose content in bootstrap container?"
+msgstr ""
+
+#: ../core/admin-form.php:564 ../core/admin-form.php:567
+msgid "Log Settings"
+msgstr ""
+
+#: ../core/admin-form.php:573
+msgid "Log directory?"
+msgstr ""
+
+#. Register custom menu-type for Zibbra categories
+#: ../core/admin.php:45
+msgid "Zibbra Categories"
+msgstr ""
+
+#: ../core/admin.php:179
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. end if
+#: ../core/controller.php:138 ../core/controller.php:424
+msgid "Forgot your password?"
+msgstr ""
+
+#: ../core/controller.php:139
+msgid "Register a new account"
+msgstr ""
+
+#: ../core/controller.php:213
+msgid "Zibbra Customer"
+msgstr ""
+
+#: ../core/controller.php:412 ../core/controller.php:432
+#: ../core/controller.php:503
+msgid "Unable to login"
+msgstr ""
+
+#: ../core/controller.php:439
+msgid "Thank you for your registration"
+msgstr ""
+
+#: ../core/controller.php:454 ../modules/register.php:263
+msgid "Unable to create your account"
+msgstr ""
+
+#: ../core/controller.php:510
+msgid "Welcome back"
+msgstr ""
+
+#. id
+#: ../core/controller.php:657
+msgid "Zibbra Meta"
+msgstr ""
+
+#: ../core/controller.php:672
+msgid "URL to the product page"
+msgstr ""
+
+#: ../jscripts/checkout.js:221
+msgid "LOADING"
+msgstr ""
+
+#: ../modules/account.php:208
+msgid "You are not allowed to access this page"
+msgstr ""
+
+#. end if
+#. Set the title
+#: ../modules/account.php:258
+msgid "Your account"
+msgstr ""
+
+#. Set the title
+#: ../modules/brand.php:58 ../widgets/brands.php:16
+msgid "Brands"
+msgstr ""
+
+#: ../modules/cart.php:59
+msgid "Quantity has been updated"
+msgstr ""
+
+#: ../modules/cart.php:92
+msgid "Item deleted from cart"
+msgstr ""
+
+#: ../modules/cart.php:127 ../widgets/minicart.php:18
+msgid "Unable to load the shopping cart"
+msgstr ""
+
+#. Set the title
+#: ../modules/cart.php:142 ../templates/cart.php:19
+msgid "Your shopping cart"
+msgstr ""
+
+#. Set generic title
+#: ../modules/catalog.php:75
+msgid "Catalog"
+msgstr ""
+
+#: ../modules/checkout.php:67
+msgid "Unable to remove the voucher code"
+msgstr ""
+
+#: ../modules/checkout.php:71
+msgid "Voucher code has been removed"
+msgstr ""
+
+#: ../modules/checkout.php:85
+msgid "This is a personally assigned voucher. Please login first."
+msgstr ""
+
+#: ../modules/checkout.php:91
+msgid "This voucher does not belong to your account."
+msgstr ""
+
+#: ../modules/checkout.php:97
+msgid "This voucher is not activated."
+msgstr ""
+
+#: ../modules/checkout.php:103
+msgid "This voucher is not yet active."
+msgstr ""
+
+#: ../modules/checkout.php:109
+msgid "This voucher has reached its limit of uses."
+msgstr ""
+
+#: ../modules/checkout.php:115
+msgid "This voucher has already been used by your account."
+msgstr ""
+
+#: ../modules/checkout.php:121
+msgid "This voucher has expired."
+msgstr ""
+
+#: ../modules/checkout.php:127 ../modules/checkout.php:135
+msgid "Voucher code is invalid, please try again."
+msgstr ""
+
+#: ../modules/checkout.php:139
+msgid "Voucher code has been applied"
+msgstr ""
+
+#. Notify the user
+#: ../modules/checkout.php:338
+msgid "We were unable to complete your order, please try again."
+msgstr ""
+
+#. Notify the user
+#: ../modules/checkout.php:348 ../modules/payment.php:149
+#: ../modules/payment.php:432 ../modules/payment.php:530
+msgid "Thank you for your order!"
+msgstr ""
+
+#. Notify the user
+#: ../modules/checkout.php:405
+msgid "Your cart is empty"
+msgstr ""
+
+#. Set the title
+#: ../modules/checkout.php:494 ../modules/payment.php:374
+#: ../templates/cart.php:70 ../templates/checkout.php:17
+#: ../templates/widget-minicart-ajax.php:20
+msgid "Checkout"
+msgstr ""
+
+#. Set the title
+#: ../modules/login.php:38 ../templates/login.php:6
+msgid "Customer Login"
+msgstr ""
+
+#. Notify the user
+#: ../modules/payment.php:177 ../modules/payment.php:278
+msgid "Your payment has failed, please try again or choose a different method."
+msgstr ""
+
+#. end if
+#. Notify the user
+#: ../modules/payment.php:250 ../modules/shipping.php:161
+msgid "Your order has been cancelled"
+msgstr ""
+
+#. Notify the user
+#: ../modules/payment.php:322
+msgid "Something went wrong, you will need to login again"
+msgstr ""
+
+#. Notify the user
+#: ../modules/payment.php:357
+msgid "We could not load your order, please try again"
+msgstr ""
+
+#. Set the title
+#: ../modules/payment.php:473
+msgid "Validating payment"
+msgstr ""
+
+#: ../modules/product.php:48
+msgid "Unable to add this product to the shopping cart"
+msgstr ""
+
+#: ../modules/product.php:59
+msgid "Please choose one of the options"
+msgstr ""
+
+#: ../modules/register.php:40 ../modules/reset.php:42
+msgid "Captcha was invalid, please try again"
+msgstr ""
+
+#: ../modules/register.php:84
+msgid "Thank you for registering your account"
+msgstr ""
+
+#: ../modules/register.php:88
+msgid "Your account has been created, but we were unable to login"
+msgstr ""
+
+#: ../modules/register.php:95
+msgid "Sorry, but we were unable to create your account"
+msgstr ""
+
+#. end if
+#. Set the title
+#: ../modules/register.php:170
+msgid "Register a new customer account"
+msgstr ""
+
+#: ../modules/reset.php:51
+msgid ""
+"We were unable to reset your password, please try again and check your email "
+"address."
+msgstr ""
+
+#: ../modules/reset.php:55
+msgid "We have sent instructions to your email address to reset your password."
+msgstr ""
+
+#. Set the title
+#: ../modules/reset.php:81 ../templates/reset.php:6
+msgid "Reset your password"
+msgstr ""
+
+#. Set the title
+#: ../modules/search.php:45
+msgid "Search"
+msgstr ""
+
+#. Set the title
+#: ../modules/shipping.php:88
+msgid "Shipping Configuration"
+msgstr ""
+
+#. Notify the user
+#: ../modules/shipping.php:179
+msgid "Something went wrong, please try again"
+msgstr ""
+
+#: ../templates/account-details-billing.php:9
+msgid "Billing address"
+msgstr ""
+
+#: ../templates/account-details-billing.php:15
+#: ../templates/account-details-customer.php:29
+#: ../templates/account-details-shipping.php:15
+msgid "Edit"
+msgstr ""
+
+#: ../templates/account-details-customer.php:10
+msgid "Account information"
+msgstr ""
+
+#: ../templates/account-details-customer.php:13
+msgid "Contact"
+msgstr ""
+
+#: ../templates/account-details-customer.php:16
+msgid "Company"
+msgstr ""
+
+#: ../templates/account-details-customer.php:19 ../templates/login.php:15
+#: ../templates/register-company.php:21 ../templates/register.php:22
+#: ../templates/reset.php:14 ../templates/widget-login.php:30
+msgid "E-mail"
+msgstr ""
+
+#: ../templates/account-details-customer.php:22
+#: ../templates/register-company.php:11 ../templates/register-contact.php:39
+msgid "Phone"
+msgstr ""
+
+#: ../templates/account-details-customer.php:30
+msgid "Logout"
+msgstr ""
+
+#: ../templates/account-details-shipping.php:9
+msgid "Shipping address"
+msgstr ""
+
+#: ../templates/account-edit.php:15 ../templates/account.php:9
+msgid "My Account"
+msgstr ""
+
+#. end switch
+#: ../templates/account-edit.php:53
+msgid "Save Changes"
+msgstr ""
+
+#: ../templates/account-edit.php:54 ../templates/register.php:65
+#: ../templates/reset.php:26 ../templates/shipping.php:18
+msgid "Cancel"
+msgstr ""
+
+#: ../templates/account-invoices.php:11
+msgid "All your invoices"
+msgstr ""
+
+#: ../templates/account-invoices.php:11
+msgid "Recent invoices"
+msgstr ""
+
+#: ../templates/account-invoices.php:13 ../templates/account-orders.php:13
+msgid "View all"
+msgstr ""
+
+#: ../templates/account-invoices.php:19 ../templates/account-orders.php:19
+msgid "Back to My Account"
+msgstr ""
+
+#: ../templates/account-invoices.php:26 ../templates/account-orders.php:26
+msgid "Number"
+msgstr ""
+
+#: ../templates/account-invoices.php:27 ../templates/account-orders.php:27
+msgid "Date"
+msgstr ""
+
+#: ../templates/account-invoices.php:28
+msgid "Expires on"
+msgstr ""
+
+#: ../templates/account-invoices.php:29 ../templates/account-orders.php:28
+#: ../templates/cart-table.php:7 ../templates/checkout-cart.php:7
+#: ../templates/payment-order.php:11
+msgid "Total"
+msgstr ""
+
+#: ../templates/account-invoices.php:30
+msgid "Paid"
+msgstr ""
+
+#: ../templates/account-invoices.php:31 ../templates/account-orders.php:30
+msgid "Actions"
+msgstr ""
+
+#: ../templates/account-invoices.php:42 ../templates/account-orders.php:40
+msgid "Download PDF"
+msgstr ""
+
+#: ../templates/account-invoices.php:42 ../templates/account-orders.php:40
+msgid "View"
+msgstr ""
+
+#: ../templates/account-invoices.php:48
+msgid "No invoices"
+msgstr ""
+
+#: ../templates/account-orders.php:11
+msgid "All your orders"
+msgstr ""
+
+#: ../templates/account-orders.php:11
+msgid "Recent orders"
+msgstr ""
+
+#: ../templates/account-orders.php:29
+msgid "Status"
+msgstr ""
+
+#: ../templates/account-orders.php:46
+msgid "No orders"
+msgstr ""
+
+#: ../templates/brand.php:9
+msgid "Our Brands"
+msgstr ""
+
+#. end if
+#: ../templates/cart-table.php:4 ../templates/checkout-cart.php:6
+#: ../templates/payment-order.php:10
+msgid "Product"
+msgstr ""
+
+#: ../templates/cart-table.php:5
+msgid "Quantity"
+msgstr ""
+
+#: ../templates/cart-table.php:6
+msgid "Amount"
+msgstr ""
+
+#: ../templates/cart-table.php:9 ../templates/checkout-cart.php:8
+#: ../templates/payment-order.php:12
+msgid "VAT"
+msgstr ""
+
+#: ../templates/cart-table.php:73
+msgid "Remove item"
+msgstr ""
+
+#: ../templates/cart-table.php:73
+msgid "Are you sure you want to remove this item from your cart?"
+msgstr ""
+
+#: ../templates/cart.php:38
+msgid "Cart totals"
+msgstr ""
+
+#: ../templates/cart.php:43 ../templates/checkout-cart.php:52
+msgid "Total VAT excl."
+msgstr ""
+
+#: ../templates/cart.php:47 ../templates/checkout-cart.php:56
+#: ../templates/payment-order.php:29
+msgid "Total VAT"
+msgstr ""
+
+#: ../templates/cart.php:51 ../templates/checkout-cart.php:72
+#: ../templates/payment-order.php:33
+msgid "Total VAT incl."
+msgstr ""
+
+#: ../templates/cart.php:64
+msgid "Continue shopping"
+msgstr ""
+
+#: ../templates/cart.php:84
+msgid "Your shopping cart is empty"
+msgstr ""
+
+#: ../templates/catalog-categories.php:23
+msgid "View products"
+msgstr ""
+
+#: ../templates/catalog-filters.php:35 ../templates/catalog-product.php:35
+#: ../templates/product-info.php:19
+msgid "Stock"
+msgstr ""
+
+#: ../templates/catalog-filters.php:39
+msgid "In stock only"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:10
+msgid "First"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:17
+msgid "Previous"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:24
+msgid "Next"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:31
+msgid "Last"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:46
+msgid "Pagination"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:48
+msgid "Backward"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:60
+msgid "Pages"
+msgstr ""
+
+#: ../templates/catalog-pagination.php:68
+msgid "Forward"
+msgstr ""
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+msgid "Availability"
+msgstr ""
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+msgid "In stock"
+msgstr ""
+
+#: ../templates/catalog-product.php:37 ../templates/product-info.php:21
+#: ../templates/product-variations.php:19
+msgid "Not in stock"
+msgstr ""
+
+#: ../templates/catalog-product.php:46 ../templates/product-buy.php:13
+#, php-format
+msgid "<small>From <s>%s</s> for </small>%s"
+msgstr ""
+
+#. end switch
+#. end if
+#: ../templates/catalog-product.php:62 ../templates/product-suggestions.php:20
+#: ../templates/search.php:44 ../templates/widget-bestsellers.php:20
+#: ../templates/widget-category.php:43
+msgid "View product"
+msgstr ""
+
+#: ../templates/catalog-toolbar.php:16
+msgid "Results per page"
+msgstr ""
+
+#: ../templates/catalog-toolbar.php:26 ../templates/catalog-toolbar.php:38
+#: ../templates/catalog-toolbar.php:66
+msgid "All Results"
+msgstr ""
+
+#: ../templates/catalog-toolbar.php:29 ../templates/catalog-toolbar.php:41
+#: ../templates/catalog-toolbar.php:57
+msgid "Page"
+msgstr ""
+
+#: ../templates/catalog-toolbar.php:45 ../templates/catalog-toolbar.php:100
+msgid "Toggle Dropdown"
+msgstr ""
+
+#: ../templates/catalog-toolbar.php:130 ../templates/catalog-toolbar.php:132
+msgid "Sort by"
+msgstr ""
+
+#: ../templates/checkout-cart.php:43
+msgid "Total cart"
+msgstr ""
+
+#: ../templates/checkout-cart.php:47
+msgid "Discounts"
+msgstr ""
+
+#: ../templates/checkout-cart.php:61
+msgid "Shipping cost"
+msgstr ""
+
+#: ../templates/checkout-cart.php:67
+msgid "Payment cost"
+msgstr ""
+
+#: ../templates/checkout-login.php:7
+msgid "Username"
+msgstr ""
+
+#: ../templates/checkout-login.php:8 ../templates/login.php:16
+#: ../templates/register.php:28 ../templates/widget-login.php:31
+msgid "Password"
+msgstr ""
+
+#: ../templates/checkout-login.php:9 ../templates/login.php:17
+#: ../templates/widget-login.php:32
+msgid "Remember me"
+msgstr ""
+
+#: ../templates/checkout-login.php:10 ../templates/login.php:18
+#: ../templates/widget-login.php:33
+msgid "Log In"
+msgstr ""
+
+#. end if
+#: ../templates/checkout-payment.php:31 ../templates/checkout-payment.php:33
+msgid "No payment methods found."
+msgstr ""
+
+#: ../templates/checkout-payment.php:31 ../templates/checkout-shipping.php:31
+msgid "Please login first."
+msgstr ""
+
+#: ../templates/checkout-payment.php:33
+msgid "Please contact us for a custom solution."
+msgstr ""
+
+#. end if
+#: ../templates/checkout-shipping.php:31 ../templates/checkout-shipping.php:33
+msgid "No shipping methods found."
+msgstr ""
+
+#: ../templates/checkout-shipping.php:33
+msgid "Please contact us for a custom quote."
+msgstr ""
+
+#: ../templates/checkout.php:22
+msgid "Account and address"
+msgstr ""
+
+#: ../templates/checkout.php:25
+msgid "Customer login"
+msgstr ""
+
+#: ../templates/checkout.php:39
+msgid "Shipping method"
+msgstr ""
+
+#: ../templates/checkout.php:41
+msgid "Payment method"
+msgstr ""
+
+#: ../templates/checkout.php:46 ../templates/payment.php:28
+msgid "Review your order"
+msgstr ""
+
+#: ../templates/checkout.php:51
+msgid "Discount voucher"
+msgstr ""
+
+#: ../templates/checkout.php:56
+msgid "Remove voucher"
+msgstr ""
+
+#: ../templates/checkout.php:60
+msgid "Enter voucher code"
+msgstr ""
+
+#: ../templates/checkout.php:61
+msgid "Apply voucher"
+msgstr ""
+
+#: ../templates/checkout.php:68 ../templates/checkout.php:70
+msgid "Optional comments"
+msgstr ""
+
+#: ../templates/checkout.php:76
+msgid "Confirm your order"
+msgstr ""
+
+#: ../templates/checkout.php:83 ../templates/checkout.php:85
+msgid "I agree to the"
+msgstr ""
+
+#: ../templates/checkout.php:83 ../templates/checkout.php:85
+msgid "general terms & conditions"
+msgstr ""
+
+#: ../templates/checkout.php:90
+msgid "Forgot an item?"
+msgstr ""
+
+#: ../templates/checkout.php:90
+msgid "Edit your shopping cart"
+msgstr ""
+
+#: ../templates/checkout.php:91
+msgid "Place order"
+msgstr ""
+
+#: ../templates/checkout.php:100
+msgid "Loading, please wait..."
+msgstr ""
+
+#: ../templates/payment-verify.php:15
+msgid "Verifying your payment, please wait"
+msgstr ""
+
+#: ../templates/payment.php:7 ../templates/payment.php:39
+msgid "Confirm your payment"
+msgstr ""
+
+#: ../templates/payment.php:41
+msgid "Pay now"
+msgstr ""
+
+#: ../templates/payment.php:42
+msgid "Cancel your order"
+msgstr ""
+
+#: ../templates/product-description.php:5
+msgid "Description"
+msgstr ""
+
+#: ../templates/product-info.php:8
+msgid "SKU"
+msgstr ""
+
+#: ../templates/product-info.php:13
+msgid "Brand"
+msgstr ""
+
+#: ../templates/product-info.php:39
+msgid "Categories"
+msgstr ""
+
+#: ../templates/product-properties.php:10
+msgid "Product Specifications"
+msgstr ""
+
+#: ../templates/product-suggestions.php:4
+msgid "Suggestions"
+msgstr ""
+
+#: ../templates/product-variations.php:10
+msgid "Make a choice"
+msgstr ""
+
+#. end if
+#: ../templates/register-address-billing.php:21
+msgid "Same as shipping address"
+msgstr ""
+
+#: ../templates/register-address-billing.php:24
+msgid "Billing Address"
+msgstr ""
+
+#. end if
+#: ../templates/register-address-shipping.php:21
+msgid "Same as billing address"
+msgstr ""
+
+#: ../templates/register-address-shipping.php:24
+msgid "Shipping Address"
+msgstr ""
+
+#: ../templates/register-address.php:14
+msgid "Street"
+msgstr ""
+
+#: ../templates/register-address.php:16
+msgid "Please enter your street name"
+msgstr ""
+
+#: ../templates/register-address.php:19
+msgid "Nr"
+msgstr ""
+
+#: ../templates/register-address.php:21
+msgid "Please enter your street number"
+msgstr ""
+
+#: ../templates/register-address.php:24
+msgid "Box"
+msgstr ""
+
+#: ../templates/register-address.php:24 ../templates/register-company.php:7
+#: ../templates/register-company.php:11 ../templates/register-company.php:16
+#: ../templates/register-company.php:21 ../templates/register-company.php:26
+#: ../templates/register-company.php:31 ../templates/register-contact.php:7
+#: ../templates/register-contact.php:34 ../templates/register-contact.php:39
+msgid "Optional"
+msgstr ""
+
+#: ../templates/register-address.php:28
+msgid "Zipcode"
+msgstr ""
+
+#: ../templates/register-address.php:30
+msgid "Please enter your zipcode"
+msgstr ""
+
+#: ../templates/register-address.php:33
+msgid "City"
+msgstr ""
+
+#: ../templates/register-address.php:35
+msgid "Please enter your city"
+msgstr ""
+
+#: ../templates/register-address.php:38
+msgid "Country"
+msgstr ""
+
+#: ../templates/register-address.php:46
+msgid "Please enter your country"
+msgstr ""
+
+#: ../templates/register-company.php:5
+msgid "Company Information"
+msgstr ""
+
+#: ../templates/register-company.php:7
+msgid "Company Name"
+msgstr ""
+
+#: ../templates/register-company.php:13
+msgid "Please enter the company phone number, format: +32 (123) 123456"
+msgstr ""
+
+#: ../templates/register-company.php:16
+msgid "Fax"
+msgstr ""
+
+#: ../templates/register-company.php:18
+msgid "Please enter the company fax number, format: +32 (123) 123456"
+msgstr ""
+
+#: ../templates/register-company.php:23
+msgid "Please enter the general company email adress"
+msgstr ""
+
+#: ../templates/register-company.php:26
+msgid "Website"
+msgstr ""
+
+#: ../templates/register-company.php:28
+msgid ""
+"Please enter the company website adress, format: http://www.yourdomain.ext"
+msgstr ""
+
+#: ../templates/register-company.php:31
+msgid "VAT Number"
+msgstr ""
+
+#: ../templates/register-company.php:33
+msgid "Please enter the VAT number for your company"
+msgstr ""
+
+#: ../templates/register-contact.php:5
+msgid "Personal Information"
+msgstr ""
+
+#. end function
+#. end class
+#: ../templates/register-contact.php:7 ../widgets/minicart-form.php:3
+msgid "Title"
+msgstr ""
+
+#: ../templates/register-contact.php:11
+msgid "Firstname"
+msgstr ""
+
+#: ../templates/register-contact.php:13
+msgid "Please enter your firstname"
+msgstr ""
+
+#: ../templates/register-contact.php:16
+msgid "Lastname"
+msgstr ""
+
+#: ../templates/register-contact.php:18
+msgid "Please enter your lastname"
+msgstr ""
+
+#: ../templates/register-contact.php:21
+msgid "Gender"
+msgstr ""
+
+#: ../templates/register-contact.php:25
+msgid "Male"
+msgstr ""
+
+#: ../templates/register-contact.php:29
+msgid "Female"
+msgstr ""
+
+#: ../templates/register-contact.php:34
+msgid "Mobile"
+msgstr ""
+
+#: ../templates/register-contact.php:36
+msgid "Please enter your mobile number, format: +32 (123) 123456"
+msgstr ""
+
+#: ../templates/register-contact.php:41
+msgid "Please enter your phone number, format: +32 (123) 123456"
+msgstr ""
+
+#: ../templates/register.php:13
+msgid "Create a new account"
+msgstr ""
+
+#: ../templates/register.php:20
+msgid "Account Information"
+msgstr ""
+
+#: ../templates/register.php:24
+msgid "Please enter your email adress"
+msgstr ""
+
+#: ../templates/register.php:30
+msgid ""
+"Your password must be at least 8 to 20 characters long and contain at least "
+"one letter and one number or a special character"
+msgstr ""
+
+#: ../templates/register.php:33
+msgid "Confirm password"
+msgstr ""
+
+#: ../templates/register.php:35
+msgid "Please repeat the password"
+msgstr ""
+
+#: ../templates/register.php:63
+msgid "Create account"
+msgstr ""
+
+#: ../templates/reset.php:12
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: ../templates/reset.php:16
+msgid "Enter the e-mail address of your account"
+msgstr ""
+
+#: ../templates/reset.php:24
+msgid "Submit"
+msgstr ""
+
+#: ../templates/search.php:20
+msgid "Products"
+msgstr ""
+
+#: ../templates/search.php:26 ../templates/search.php:66
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: ../templates/search.php:60
+msgid "Website content"
+msgstr ""
+
+#: ../templates/shipping-kiala.php:7
+msgid ""
+"Please select the Kiala access point from the map below, as the pickup "
+"location for your order."
+msgstr ""
+
+#: ../templates/shipping.php:9
+msgid "Shipping configuration"
+msgstr ""
+
+#: ../templates/widget-login.php:10
+msgid "Your Account"
+msgstr ""
+
+#: ../templates/widget-login.php:20
+msgid "Account page"
+msgstr ""
+
+#: ../templates/widget-login.php:21
+msgid "Log out"
+msgstr ""
+
+#: ../templates/widget-minicart-ajax.php:17
+msgid "item"
+msgstr ""
+
+#: ../templates/widget-minicart-ajax.php:17
+msgid "items"
+msgstr ""
+
+#: ../templates/widget-minicart-ajax.php:38
+msgid "View Cart"
+msgstr ""
+
+#: ../templates/widget-poweredby.php:3 ../templates/widget-poweredby.php:6
+msgid "Powered by"
+msgstr ""
+
+#. end function
+#. end class
+#. end if
+#. end function
+#. end class
+#: ../widgets/bestsellers-form.php:3 ../widgets/brands-form.php:3
+#: ../widgets/category-form.php:3 ../widgets/filters-form.php:3
+#: ../widgets/login-form.php:3 ../widgets/newsletter-form.php:3
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/bestsellers-form.php:7 ../widgets/category-form.php:7
+msgid "Maximum number of items:"
+msgstr ""
+
+#: ../widgets/bestsellers.php:10
+msgid "Zibbra Bestsellers"
+msgstr ""
+
+#: ../widgets/bestsellers.php:11
+msgid "Display a listing of the best selling products."
+msgstr ""
+
+#: ../widgets/bestsellers.php:19
+msgid "Bestsellers"
+msgstr ""
+
+#: ../widgets/brands-form.php:7
+msgid "Thumbnail size:"
+msgstr ""
+
+#: ../widgets/brands.php:7
+msgid "Zibbra Brands"
+msgstr ""
+
+#: ../widgets/brands.php:8
+msgid "Display a listing of logos for the manufacturers."
+msgstr ""
+
+#: ../widgets/category-form.php:22
+msgid "Sort type?"
+msgstr ""
+
+#: ../widgets/category-form.php:30
+msgid "Sort direction?"
+msgstr ""
+
+#: ../widgets/category-form.php:38
+msgid "Category?"
+msgstr ""
+
+#. * @var ZCategory $category
+#: ../widgets/category-form.php:46
+msgid "Show description?"
+msgstr ""
+
+#: ../widgets/category.php:26
+msgid "Zibbra Category"
+msgstr ""
+
+#: ../widgets/category.php:27
+msgid "Display a listing of products from a specific category"
+msgstr ""
+
+#: ../widgets/category.php:35
+msgid "In the spotlight"
+msgstr ""
+
+#: ../widgets/filters.php:7
+msgid "Zibbra Filters"
+msgstr ""
+
+#: ../widgets/filters.php:8
+msgid "Display catalog filters as a widget"
+msgstr ""
+
+#: ../widgets/filters.php:16
+msgid "Filters"
+msgstr ""
+
+#: ../widgets/login-form.php:7
+msgid "Icon:"
+msgstr ""
+
+#: ../widgets/login-form.php:12
+msgid "Popup "
+msgstr ""
+
+#: ../widgets/login-form.php:16 ../widgets/minicart-form.php:18
+msgid "Click instead of hover "
+msgstr ""
+
+#: ../widgets/login.php:7
+msgid "Zibbra Login"
+msgstr ""
+
+#: ../widgets/login.php:8
+msgid "Login widget for customers"
+msgstr ""
+
+#: ../widgets/login.php:16
+msgid "Login"
+msgstr ""
+
+#. end function
+#. end class
+#: ../widgets/menu-form.php:3
+msgid "Override main menu?"
+msgstr ""
+
+#: ../widgets/menu-form.php:10
+msgid "Show Home?"
+msgstr ""
+
+#: ../widgets/menu.php:25
+msgid "Zibbra Menu"
+msgstr ""
+
+#: ../widgets/menu.php:26
+msgid "Navigation menu based on your catalog categories."
+msgstr ""
+
+#: ../widgets/minicart-form.php:7
+msgid "Popup"
+msgstr ""
+
+#: ../widgets/minicart-form.php:12
+msgid "Show links?"
+msgstr ""
+
+#: ../widgets/minicart.php:9
+msgid "Zibbra Mini Cart"
+msgstr ""
+
+#: ../widgets/minicart.php:10
+msgid "Show a summary of the shopping cart."
+msgstr ""
+
+#: ../widgets/minicart.php:35
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../widgets/newsletter-form.php:7
+msgid "Description:"
+msgstr ""
+
+#: ../widgets/newsletter-form.php:11
+msgid "Input text:"
+msgstr ""
+
+#: ../widgets/newsletter-form.php:15
+msgid "Button text:"
+msgstr ""
+
+#: ../widgets/newsletter-form.php:19
+msgid "Icon class:"
+msgstr ""
+
+#: ../widgets/newsletter.php:7
+msgid "Zibbra Newsletter"
+msgstr ""
+
+#: ../widgets/newsletter.php:8
+msgid "Newsletter subscription for the Zibbra E-Marketing module."
+msgstr ""
+
+#: ../widgets/newsletter.php:19 ../widgets/newsletter.php:22
+msgid "Subscribe"
+msgstr ""
+
+#: ../widgets/newsletter.php:20
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: ../widgets/newsletter.php:21
+msgid "Your e-mail"
+msgstr ""
+
+#: ../widgets/newsletter.php:62 ../widgets/newsletter.php:80
+msgid "An error occured, please try again"
+msgstr ""
+
+#: ../widgets/newsletter.php:79 ../widgets/newsletter.php:94
+msgid "Invalid email, please try again"
+msgstr ""
+
+#: ../widgets/newsletter.php:87
+msgid "Thank you for subscribing!"
+msgstr ""
+
+#: ../widgets/notify.php:7
+msgid "Zibbra Notifications"
+msgstr ""
+
+#: ../widgets/notify.php:8
+msgid "Display notifications."
+msgstr ""
+
+#: ../widgets/poweredby.php:7
+msgid "Powered by Zibbra"
+msgstr ""
+
+#: ../widgets/poweredby.php:8
+msgid "Show a small label that this webshop is powered by Zibbra"
+msgstr ""

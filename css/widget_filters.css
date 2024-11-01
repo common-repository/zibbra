@@ -1,0 +1,11 @@
+body .widget_zibbra_plugin_filters {
+
+    display: none;
+
+}
+
+body.zibbra-catalog .widget_zibbra_plugin_filters {
+
+    display: block;
+
+}
